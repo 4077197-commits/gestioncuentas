@@ -1,5 +1,10 @@
 package gestioncuentas.es.cifpcarlosiii.ed1daw.ut4;
 
+/**
+ * Descripcion
+ * @version 1.1
+ * @author Noelia
+ */
 public class Principal {
 
     public static void main(String[] args) {
